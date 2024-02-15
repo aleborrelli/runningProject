@@ -1,2 +1,4 @@
 venv
-tool/config.py
+tools/config.py
+tools/__pycache__
+.idea
