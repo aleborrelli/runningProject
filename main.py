@@ -12,5 +12,3 @@ token = api_lib.RequestToken()
 response = api_lib.GetActivities(token)
 
 res_df = pd.DataFrame(response.json())
-
-gZ6QNnKx@4vmUmT
